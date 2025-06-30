@@ -1,0 +1,39 @@
+:root {
+  /*COLORS*/
+  --base-gray-100: #E2E4E9;
+  --base-gray-200: #C0C4CE;
+  --base-gray-300: #878EA1;
+  --base-gray-400: #292C34;
+  --base-gray-500: #16181D;
+  --base-gray-600: #0D0E11;
+
+  --primary-red: #E3646E;
+  --primary-purple: #BB72E9;
+  --primary-blue: #3996DB;
+  --primary-green: #82BC4F;
+  --primary-yellow: #EABD5F;
+
+  /*TYPOGRAPHY*/
+  --title-lg: bold 56px/120% 'Asap';
+  --title-md: bold 24px/120% 'Asap';
+  --title-sm: bold 16px/120% 'Asap';
+
+  --subtitle: 20px/120% 'Inconsolata';
+
+  --text-md: 16px/140% 'Maven Pro';
+  --text-sm: 14px/140% 'Maven Pro';
+
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
