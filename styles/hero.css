@@ -1,4 +1,4 @@
-.intro {
+.hero {
   background: url(../assets/images/Background_Intro.png) no-repeat;
   background-size: cover;
 
@@ -47,24 +47,23 @@
   position: relative;
 }
 
-
-
-.profile-name {
+.profile-label {
   font: var(--subtitle);
   color: var(--base-gray-200);
 }
 
-
-.profile-name span {
+.profile-label strong {
   color: var(--primary-red);
+  font: var(--subtitle);
   margin-bottom: 8px;
 }
 
-.profile-role {
+.profile-title {
   font: var(--title-lg);
   color: var(--base-gray-100);
   margin-bottom: 20px;
 }
+
 
 .profile-description {
   font: var(--text-sm);
