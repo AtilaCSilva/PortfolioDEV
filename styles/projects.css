@@ -1,0 +1,34 @@
+.projects {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  gap: 56px;
+  padding: 72px 120px 144px;
+}
+
+.project-texts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.project-highlights {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 24px;
+}
+
+
+.project-highlights div img {
+  width: 306px;
+  height: 156px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.project-info {
+  padding: 4px;
+}
