@@ -37,7 +37,16 @@
   padding: 20px;
   background-color: var(--base-gray-400);
   border-radius: 8px;
+  border: 1.5px solid transparent;
+  transition: all 0.2s linear;
+
 }
+
+.contact-list li:hover {
+  border: 1.5px solid var(--primary-blue);
+  transition: all 0.2s linear;
+}
+
 
 .contact-list a {
   display: flex;

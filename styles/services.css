@@ -23,6 +23,7 @@
 .card {
   padding: 20px;
   border: 2px solid var(--base-gray-500);
+  border-radius: 12px;
 }
 
 .card>img {

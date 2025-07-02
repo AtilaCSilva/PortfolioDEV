@@ -64,7 +64,16 @@ ul, li, a {
   flex-direction: column;
   align-items: flex-start;
   border-radius: 12px;
+  border: 1.5px solid transparent;
+  transition: all 0.2s linear;
   background-color: var(--base-gray-400);
+}
+
+
+.project-card:hover {
+  border: 1.5px solid var(--base-gray-300);
+  transition: all 0.2s linear;
+
 }
 
 .card-title {
