@@ -36,11 +36,13 @@ body {
   background-color: var(--base-gray-500);
 }
 
-ul, li {
+ul, li, a {
   list-style: none;
+  text-decoration: none;
   margin: 0;
   padding: 0;
 }
+
 
 /* STYLE COMPONENTS */
 
