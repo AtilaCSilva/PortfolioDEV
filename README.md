@@ -4,7 +4,7 @@
 ![preview](.github/preview.png)
 representação do meu resultado
 
-[🔗Clique aqui para acessar](https://atilacsilva.github.io/portfolioDev) 
+[🔗Clique aqui para acessar](https://atilacsilva.github.io/portfolioDEV) 
 
 ## 🔥Sobre o projeto!
 O projeto é um site desktop de portfólio para desenvolvedores, com links para projetos e contato do profissional. Esse é um dos desafios práticos da formação Fullstack da Rocketseat.
