@@ -65,13 +65,13 @@ ul, li {
   background-color: var(--base-gray-400);
 }
 
-.project-title {
+.card-title {
   font: var(--title-sm);
   color: var(--base-gray-100);
   margin-bottom: 8px;
 }
 
-.project-description {
+.card-description {
   font: var(--text-sm);
   color: var(--base-gray-200);
 }
